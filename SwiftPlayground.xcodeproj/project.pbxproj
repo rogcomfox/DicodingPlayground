@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		DBF20463242717A600B3C56B /* DicodingPlayground */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DicodingPlayground; sourceTree = BUILT_PRODUCTS_DIR; };
+		DBF20463242717A600B3C56B /* SwiftPlayground */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftPlayground; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBF20466242717A600B3C56B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		DBF2045A242717A600B3C56B = {
 			isa = PBXGroup;
 			children = (
-				DBF20465242717A600B3C56B /* DicodingPlayground */,
+				DBF20465242717A600B3C56B /* SwiftPlayground */,
 				DBF20464242717A600B3C56B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +49,25 @@
 		DBF20464242717A600B3C56B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DBF20463242717A600B3C56B /* DicodingPlayground */,
+				DBF20463242717A600B3C56B /* SwiftPlayground */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		DBF20465242717A600B3C56B /* DicodingPlayground */ = {
+		DBF20465242717A600B3C56B /* SwiftPlayground */ = {
 			isa = PBXGroup;
 			children = (
 				DBF20466242717A600B3C56B /* main.swift */,
 			);
-			path = DicodingPlayground;
+			path = SwiftPlayground;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DBF20462242717A600B3C56B /* DicodingPlayground */ = {
+		DBF20462242717A600B3C56B /* SwiftPlayground */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DBF2046A242717A600B3C56B /* Build configuration list for PBXNativeTarget "DicodingPlayground" */;
+			buildConfigurationList = DBF2046A242717A600B3C56B /* Build configuration list for PBXNativeTarget "SwiftPlayground" */;
 			buildPhases = (
 				DBF2045F242717A600B3C56B /* Sources */,
 				DBF20460242717A600B3C56B /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = DicodingPlayground;
+			name = SwiftPlayground;
 			productName = DicodingPlayground;
-			productReference = DBF20463242717A600B3C56B /* DicodingPlayground */;
+			productReference = DBF20463242717A600B3C56B /* SwiftPlayground */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -97,7 +97,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DBF2045E242717A600B3C56B /* Build configuration list for PBXProject "DicodingPlayground" */;
+			buildConfigurationList = DBF2045E242717A600B3C56B /* Build configuration list for PBXProject "SwiftPlayground" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,7 +110,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DBF20462242717A600B3C56B /* DicodingPlayground */,
+				DBF20462242717A600B3C56B /* SwiftPlayground */,
 			);
 		};
 /* End PBXProject section */
@@ -265,7 +265,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DBF2045E242717A600B3C56B /* Build configuration list for PBXProject "DicodingPlayground" */ = {
+		DBF2045E242717A600B3C56B /* Build configuration list for PBXProject "SwiftPlayground" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DBF20468242717A600B3C56B /* Debug */,
@@ -274,7 +274,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DBF2046A242717A600B3C56B /* Build configuration list for PBXNativeTarget "DicodingPlayground" */ = {
+		DBF2046A242717A600B3C56B /* Build configuration list for PBXNativeTarget "SwiftPlayground" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DBF2046B242717A600B3C56B /* Debug */,
