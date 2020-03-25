@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DBD932B6242B06A4008DD76C /* Cube.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBD932B5242B06A4008DD76C /* Cube.swift */; };
 		DBF20467242717A600B3C56B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBF20466242717A600B3C56B /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		DBD932B5242B06A4008DD76C /* Cube.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cube.swift; sourceTree = "<group>"; };
 		DBF20463242717A600B3C56B /* SwiftPlayground */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftPlayground; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBF20466242717A600B3C56B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				DBF20466242717A600B3C56B /* main.swift */,
+				DBD932B5242B06A4008DD76C /* Cube.swift */,
 			);
 			path = SwiftPlayground;
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DBD932B6242B06A4008DD76C /* Cube.swift in Sources */,
 				DBF20467242717A600B3C56B /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
