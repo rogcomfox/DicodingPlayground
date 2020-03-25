@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DB47B72A242B3C77001D15DF /* Recipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB47B729242B3C77001D15DF /* Recipe.swift */; };
+		DB47B72C242B5ADC001D15DF /* LadderSnake.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB47B72B242B5ADC001D15DF /* LadderSnake.swift */; };
+		DB47B72E242B632D001D15DF /* ScoreCounter.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB47B72D242B632D001D15DF /* ScoreCounter.swift */; };
+		DBA41A21242B948D0074FCDB /* FruitList.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBA41A20242B948D0074FCDB /* FruitList.swift */; };
+		DBA41A23242BA3FA0074FCDB /* Motor.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBA41A22242BA3FA0074FCDB /* Motor.swift */; };
 		DBD932B6242B06A4008DD76C /* Cube.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBD932B5242B06A4008DD76C /* Cube.swift */; };
 		DBD932B8242B0FA1008DD76C /* Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBD932B7242B0FA1008DD76C /* Word.swift */; };
 		DBF20467242717A600B3C56B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBF20466242717A600B3C56B /* main.swift */; };
@@ -25,6 +30,11 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		DB47B729242B3C77001D15DF /* Recipe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recipe.swift; sourceTree = "<group>"; };
+		DB47B72B242B5ADC001D15DF /* LadderSnake.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LadderSnake.swift; sourceTree = "<group>"; };
+		DB47B72D242B632D001D15DF /* ScoreCounter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreCounter.swift; sourceTree = "<group>"; };
+		DBA41A20242B948D0074FCDB /* FruitList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitList.swift; sourceTree = "<group>"; };
+		DBA41A22242BA3FA0074FCDB /* Motor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Motor.swift; sourceTree = "<group>"; };
 		DBD932B5242B06A4008DD76C /* Cube.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cube.swift; sourceTree = "<group>"; };
 		DBD932B7242B0FA1008DD76C /* Word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Word.swift; sourceTree = "<group>"; };
 		DBF20463242717A600B3C56B /* SwiftPlayground */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftPlayground; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -62,8 +72,13 @@
 			isa = PBXGroup;
 			children = (
 				DBF20466242717A600B3C56B /* main.swift */,
+				DB47B72D242B632D001D15DF /* ScoreCounter.swift */,
+				DB47B729242B3C77001D15DF /* Recipe.swift */,
 				DBD932B5242B06A4008DD76C /* Cube.swift */,
+				DBA41A20242B948D0074FCDB /* FruitList.swift */,
 				DBD932B7242B0FA1008DD76C /* Word.swift */,
+				DBA41A22242BA3FA0074FCDB /* Motor.swift */,
+				DB47B72B242B5ADC001D15DF /* LadderSnake.swift */,
 			);
 			path = SwiftPlayground;
 			sourceTree = "<group>";
@@ -127,8 +142,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				DBD932B6242B06A4008DD76C /* Cube.swift in Sources */,
+				DB47B72E242B632D001D15DF /* ScoreCounter.swift in Sources */,
 				DBF20467242717A600B3C56B /* main.swift in Sources */,
+				DBA41A21242B948D0074FCDB /* FruitList.swift in Sources */,
+				DB47B72C242B5ADC001D15DF /* LadderSnake.swift in Sources */,
 				DBD932B8242B0FA1008DD76C /* Word.swift in Sources */,
+				DB47B72A242B3C77001D15DF /* Recipe.swift in Sources */,
+				DBA41A23242BA3FA0074FCDB /* Motor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
