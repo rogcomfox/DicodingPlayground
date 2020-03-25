@@ -2,5 +2,8 @@
 
 import Foundation
 
-let cube = Cube()
-cube.run()
+//let cube = Cube()
+//cube.run()
+
+let name = Word()
+name.run()
